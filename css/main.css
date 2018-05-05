@@ -1,0 +1,21 @@
+.Widthdiv{
+	width: 1000px;
+	margin:0 auto;
+	height: 100px;
+	background-color:##26D8DF ;
+}
+ /*顶部*/
+ .top_bar{
+ 	width: 100%;height: 30px;background-color:#26BAD8FF;
+ }
+main{
+	height: 100px;
+	width: 1000px;
+	background-color:#2FE915FF;
+}
+footer{
+	height: 50px;
+	width: 100%;
+	background-color: #E21;
+	margin-top: 50px; 
+}
