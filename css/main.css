@@ -1,7 +1,7 @@
 .Widthdiv{
 	width: 1000px;
 	margin:0 auto;
-	height: 100px;
+	
 	background-color:##26D8DF ;
 }
  /*顶部*/
@@ -9,13 +9,27 @@
  	width: 100%;height: 30px;background-color:#26BAD8FF;
  }
 main{
-	height: 100px;
-	width: 1000px;
-	background-color:#2FE915FF;
+	height: 300px;
+	background-color:#2FEF;
 }
 footer{
 	height: 50px;
 	width: 100%;
 	background-color: #E21;
 	margin-top: 50px; 
+	position: absolute;
+	bottom: 0;
+
+}
+body{
+
+}
+.box{
+	height: 50px;
+	width: 50px;
+	background-color: #FFD800FF;
+	position:absolute;
+	margin-top: 40%;
+	left: 55%;
+	border-radius: 25px;
 }

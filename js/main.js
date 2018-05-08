@@ -1,3 +1,3 @@
 window.onload=function(){
-  console.log(11);
+  alert("let'sgo".slice(5));
 }
